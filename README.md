@@ -38,6 +38,7 @@ npm install
 
 ## Ejecución
 
+
 Para iniciar la aplicación en modo desarrollo, ejecuta:
 
 ```bash
